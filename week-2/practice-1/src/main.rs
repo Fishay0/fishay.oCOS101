@@ -1,3 +1,5 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Welcome to Rust programming!");
+    println!("Henceforth you shall be called RUSTACIANS!");
+ 
 }
